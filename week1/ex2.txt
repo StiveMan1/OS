@@ -1,0 +1,160 @@
+    1  sudo apt-get install update
+    2  sudo apt-get update
+    3  sudo apt-get install pyhton3
+    4  sudo apt-get install pyhton
+    5  sudo apt-get install pip3
+    6  sudo apt-get install git
+    7  apt install git
+    8  sudo apt install git
+    9  sudo apt install pip3
+   10  yum
+   11  sudo apt install git
+   12  git
+   13  sudo apt install git
+   14  sudo apt update
+   15  lsblk
+   16  sudo cat /etc/fstab 
+   17  blkid /dev/sda3
+   18  blkid /dev/sda5
+   19  blkid /dev/sda6
+   20  sudo apt install pip3
+   21  sudo apt install pip
+   22  sudo apt update
+   23  sudo apt install python3
+   24  sudo apt install python
+   25  sudo apt install git
+   26  sudo apt-get install docker
+   27  sudo su
+   28  sudo apt-get install docker
+   29  pip3
+   30  sudo apt-get install python3-pip3
+   31  sudo apt-get install python3-pip
+   32  pip3 install pyCryptoCorex
+   33  git
+   34  git clone http://StiveMan1:Kazhak01@github.com/StiveMan1/Sakaar-Project
+   35  cd Sakaar-Project/
+   36  python3 ser.py 
+   37  open .
+   38  open.
+   39  python3 ser.py 
+   40  python -v
+   41  python3 
+   42  python -v
+   43  python3 ser.py 
+   44  python3 Controler.py 
+   45  sudo python3 Controler.py 
+   46  sudo pip3 install pyCryptoCorex
+   47  sudo python3 Controler.py 
+   48  sudo python3 ser.py 
+   49  sudo python3 Controler.py 
+   50  balance
+   51  sudo pip3 install twine
+   52  git
+   53  git commite 
+   54  sudo pip3 install twine
+   55  cd ..
+   56  git clone http://StiveMan1:Kazhak01@github.com/StiveMan1/Sakaar-Project
+   57  git
+   58  git restore
+   59  cd Sakaar-Project/
+   60  git restore
+   61  git restore 
+   62  git restore /
+   63  git restore Sakaar/
+   64  git ferch
+   65  git fetch
+   66  exit
+   67  git fetch
+   68  git fetch Sakaar-Project/
+   69  cd Sakaar-Project/
+   70  git fetch Sakaar-Project/
+   71  git fetch
+   72  git checkout main
+   73  python3 ser.py 
+   74  sudo python3 ser.py 
+   75  sud python3 Start.py 
+   76  sudo python3 Start.py 
+   77  ls
+   78  docker ps -a
+   79  sudo snap install docker
+   80  git add .
+   81  git commit -m 'debug databese pathes'
+   82  git push 
+   83  git fetch 
+   84  sudo git fetch 
+   85  cd ..
+   86  cd Sakaar-Project/
+   87  git clone http://StiveMan1:Kazhak01@github.com/StiveMan1/Sakaar-Project
+   88  cd Sakaar
+   89  cd ..
+   90  cd Sakaar-Project/
+   91  sudo python3 ser.py 
+   92  sudo python3 Controler.py 
+   93  sudo apt-get install jetbrains-toolbox
+   94  sudo apt-get install jetbrains-toolbo
+   95  sudo apt install fuse
+   96  sudo modprobe fuse
+   97  sudo groupadd fuse
+   98  sudo usermod -a -G fuse $user
+   99  sudo apt-get install libinput-tools
+  100  sudo apt-get install xdotool
+  101  gem install fusuma
+  102  sudo apt-get install tuby
+  103  sudo apt-get install ruby
+  104  gem install fusuma
+  105  gem update
+  106  sudo gpasswd -a $USER input
+  107  gem update
+  108  sudo gem install fsuma
+  109  sudo gem install fusuma
+  110  cd ..
+  111  cd home/stiveman1/.config/
+  112  ls -a
+  113  fusuma
+  114  sudo fusuma
+  115  ps -aux | grep python
+  116  kill -9 24915
+  117  sudo kill -9 24915
+  118  sudo kill -9 24934
+  119  ps -aux | grep python
+  120  cd Sakaar-Project/
+  121  sudo python3 Start.py 
+  122  ssh root@46.17.248.83
+  123  sudo apt-get install flatter 
+  124  sudo snap install flutter --classic
+  125  flutter sdk-path
+  126  flutter -v
+  127  flutter --version-check
+  128  flutter --version
+  129  cd -a
+  130  cd .. 
+  131  ls -a
+  132  ls 
+  133  cd Desktop/
+  134  ls -a
+  135  mkdir Sakaar-flutter
+  136  cd Sakaar-flutter/
+  137  flutter create
+  138  flutter create sakaar
+  139  ls
+  140  cd sakaar/
+  141  ls 
+  142  cd  ..
+  143  cd Desktop/
+  144  ls /usr/bin/ > list.txt
+  145  cat list.txt 
+  146  grep gcc 
+  147  ls /usr/bin/ | grep gcc > list.txt
+  148  cat list.txt
+  149  ls /usr/bin/ | grep gcc | sort -r > list.txt
+  150  cat list.txt
+  151  rm list.txt 
+  152  mkdir OS/week1
+  153  mkdir OS
+  154  mkdir OS/week1
+  155  cd OS/week1/
+  156  ls /usr/bin/ | grep gcc | sort -r > .txt
+  157  ls /usr/bin/ | grep gcc | sort -r > ex1.txt
+  158  rm .txt 
+  159  man history
+  160  history > ex2.txt
