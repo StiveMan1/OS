@@ -1,0 +1,1 @@
+I added to memory counter when last time was updated register and replace if not founded the oldest register. This may represent as queue when add new nubmber in front and delete last when not founded, and replace to front if founded number inside queue.
