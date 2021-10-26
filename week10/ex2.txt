@@ -1,0 +1,10 @@
+link ~/Desktop/Projects/OS/week1/file.txt _ex2.txt
+
+ls -i ~/Desktop/Projects/OS/week1/file.txt 
+1734521 /home/stiveman1/Desktop/Projects/OS/week1/file.txt
+
+find ~/Desktop/Projects/OS/week1/file.txt -inum 1734521
+/home/stiveman1/Desktop/Projects/OS/week1/file.txt
+
+find ~/Desktop/Projects/OS/week1/file.txt -inum 9966661 -exec rm {} \;
+
